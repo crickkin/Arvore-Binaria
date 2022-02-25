@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "arvore_binaria2.h"
+#include "arvore_binaria.h"
 
 int main()
 {
